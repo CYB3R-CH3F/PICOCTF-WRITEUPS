@@ -29,6 +29,11 @@ I'm a Computer Science student at the University of Lagos documenting my cyberse
 |-----------|------------|----------|----------|
 | Secure Shell (SSH) | 🟢 Easy | General Skills | [View →](./general-skills/ssh-netcat/) |
 | what's a netcat? | 🟢 Easy | General Skills | [View →](./general-skills/ssh-netcat/) |
+| Mod 26 (ROT13) | 🟢 Easy | Cryptography | [View →](./general-skills/number-bases-and-encoding/) |
+| Warmed Up | 🟢 Easy | General Skills | [View →](./general-skills/number-bases-and-encoding/) |
+| 2warm | 🟢 Easy | General Skills | [View →](./general-skills/number-bases-and-encoding/) |
+| Bases | 🟢 Easy | General Skills | [View →](./general-skills/number-bases-and-encoding/) |
+| Warm | 🟢 Easy | General Skills | [View →](./general-skills/number-bases-and-encoding/) |
 
 > More coming soon.
 
